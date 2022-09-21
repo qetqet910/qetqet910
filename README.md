@@ -1,2 +1,1 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=qetqet910&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
- 
+![svgurt-output](https://user-images.githubusercontent.com/79036088/191553858-53127514-f4ae-40cf-bf4f-25f87d8f78de.png)
