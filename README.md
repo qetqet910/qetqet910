@@ -1,1 +1,1 @@
-![pawel-czerwinski-g0eRErPBoTA-unsplash](https://user-images.githubusercontent.com/79036088/231329215-27a2c894-2046-40eb-98e8-54a7f814ed19.jpg)
+![pawel-czerwinski-g0eRErPBoTA-unsplash](https://user-images.githubusercontent.com/79036088/231329429-7286baca-c392-4814-9da5-b59ddf812e3a.jpg)
