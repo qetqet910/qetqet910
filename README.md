@@ -1,2 +1,1 @@
-![laptop-3214756](https://user-images.githubusercontent.com/79036088/191554009-2af806e8-d942-44ff-b649-f297445d740e.png)
-  
+![pawel-czerwinski-g0eRErPBoTA-unsplash](https://user-images.githubusercontent.com/79036088/231329098-dde1b154-ec4a-4c81-bfb1-b5d39bec2034.jpg)
