@@ -1,1 +1,1 @@
-![image](https://github.com/qetqet910/qetqet910/assets/79036088/2678899f-c1ff-4ca8-af2b-7b27d90eedc1)
+![cartoon-677](https://github.com/qetqet910/qetqet910/assets/79036088/c1adc87e-4227-458f-963f-74782096cb18)
