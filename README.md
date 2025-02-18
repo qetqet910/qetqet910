@@ -1,1 +1,1 @@
-![1888847320_ryPEz0FT_123](https://github.com/qetqet910/qetqet910/assets/79036088/9466910a-95c6-4c9a-9408-8d673a27cd58)
+![다운로드](https://github.com/user-attachments/assets/f8b5ab92-b3b0-4728-a0c8-587cc9d33203)
