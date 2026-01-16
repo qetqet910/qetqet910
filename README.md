@@ -1,1 +1,1 @@
-![solar-system-animation-1](https://github.com/user-attachments/assets/58936b4e-50d5-4fbb-a860-096b0963dc81)
+![solar-system-animation-1-pastel](https://github.com/user-attachments/assets/04c54e6c-4daf-4e7c-9518-3d42aeb5c8f9)
