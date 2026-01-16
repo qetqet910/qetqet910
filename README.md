@@ -1,2 +1,1 @@
-![SVG Example](https://readme-decorate.vercel.app/api/get?type=wave&text=%EB%91%A0%EB%B0%94+%EB%91%A0%EB%B0%94+%EB%91%90%EB%B9%84%EB%91%90%EB%B0%94&width=810&height=250&fontSize=52&fontWeight=1000&useGradient=false&fontColor=%23333333&backgroundColor=%23ffffff00&gradientColor1=&gradientColor2=)
- 
+![solar-system-animation-1](https://github.com/user-attachments/assets/58936b4e-50d5-4fbb-a860-096b0963dc81)
