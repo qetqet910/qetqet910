@@ -1,1 +1,4 @@
-[![My GitFut card](https://gitfut.com/qetqet910.png)](https://gitfut.com/qetqet910)
+
+<div align="center">
+  <img src="https://gitfut.com/qetqet910.png" width="500px" alt="HyperDesk Logo" />
+</div>
