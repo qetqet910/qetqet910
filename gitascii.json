@@ -1,0 +1,128 @@
+{
+  "username": "qetqet910",
+  "widgets": [
+    {
+      "instanceId": "widget_fa012ed0-9797-4d8f-80d2-76112ae19445",
+      "widgetId": "codeweb-retro-grid",
+      "name": "Codeweb-retro-grid Widget",
+      "position": {
+        "x": 0,
+        "y": 376
+      },
+      "size": {
+        "width": 800,
+        "height": 260
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "html",
+          "sass",
+          "css",
+          "ts",
+          "py",
+          "rust",
+          "php",
+          "bash",
+          "ruby",
+          "react",
+          "supabase",
+          "netlify",
+          "nextjs",
+          "threejs",
+          "cs"
+        ],
+        "technologies": [
+          "js",
+          "html",
+          "sass",
+          "css",
+          "ts",
+          "py",
+          "rust",
+          "php",
+          "bash",
+          "ruby",
+          "react",
+          "supabase",
+          "netlify",
+          "nextjs",
+          "threejs",
+          "cs"
+        ],
+        "displayMode": "logo"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "widget_84d53dc7-82aa-4e11-98e9-08e70cbe781f",
+      "widgetId": "codeweb-hero-orbit",
+      "name": "Codeweb-hero-orbit Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 360
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_bdd69095-50a2-4437-9df3-5db7b92a8ae0",
+      "widgetId": "codeweb-minimal-badge",
+      "name": "Codeweb-minimal-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 888
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1940d831-b290-4505-9a38-6ae9de353640",
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 0,
+        "y": 652
+      },
+      "size": {
+        "width": 800,
+        "height": 220
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#bd93f9",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "minimal",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1795615559039_nuruy",
+    "updatedAt": "2026-11-25T14:06:02.658Z"
+  }
+}
