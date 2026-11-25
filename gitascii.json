@@ -2,112 +2,373 @@
   "username": "qetqet910",
   "widgets": [
     {
-      "instanceId": "widget_fa012ed0-9797-4d8f-80d2-76112ae19445",
-      "widgetId": "codeweb-retro-grid",
-      "name": "Codeweb-retro-grid Widget",
+      "instanceId": "widget_843740bc-9cbb-46bb-ba29-4a084cd2730a",
+      "widgetId": "pokemon-card",
+      "name": "Pokemon-card Widget",
       "position": {
-        "x": 0,
-        "y": 376
+        "x": 8,
+        "y": 40
       },
       "size": {
-        "width": 800,
-        "height": 260
+        "width": 248,
+        "height": 328
       },
       "config": {
-        "selectedTechs": [
-          "js",
-          "html",
-          "sass",
-          "css",
-          "ts",
-          "py",
-          "rust",
-          "php",
-          "bash",
-          "ruby",
-          "react",
-          "supabase",
-          "netlify",
-          "nextjs",
-          "threejs",
-          "cs",
-          "pnpm"
+        "searchQuery": "Rayquaza",
+        "searchCards": [
+          {
+            "id": "pop1-3",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/pop/pop1/3/low.png"
+          },
+          {
+            "id": "pl3-8",
+            "name": "Rayquaza C",
+            "image": "https://assets.tcgdex.net/en/pl/pl3/8/low.png"
+          },
+          {
+            "id": "ex9-9",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/ex/ex9/9/low.png"
+          },
+          {
+            "id": "dv1-11",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/bw/dv1/11/low.png"
+          },
+          {
+            "id": "ex11-13",
+            "name": "Rayquaza δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex11/13/low.png"
+          },
+          {
+            "id": "dp6-14",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/dp/dp6/14/low.png"
+          },
+          {
+            "id": "ex13-16",
+            "name": "Rayquaza δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex13/16/low.png"
+          },
+          {
+            "id": "col1-20",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/col/col1/20/low.png"
+          },
+          {
+            "id": "ex8-22",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/ex/ex8/22/low.png"
+          },
+          {
+            "id": "ex13-26",
+            "name": "Rayquaza δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex13/26/low.png"
+          },
+          {
+            "id": "np-39",
+            "name": "Rayquaza ex",
+            "image": "https://assets.tcgdex.net/en/pop/np/39/low.png"
+          },
+          {
+            "id": "xy6-60",
+            "name": "Rayquaza EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy6/60/low.png"
+          },
+          {
+            "id": "xy6-61",
+            "name": "M Rayquaza EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy6/61/low.png"
+          },
+          {
+            "id": "P-A-063",
+            "name": "Rayquaza",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/063/low.png"
+          },
+          {
+            "id": "P-A-064",
+            "name": "Rayquaza ex",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/064/low.png"
+          },
+          {
+            "id": "P-A-065",
+            "name": "Rayquaza ex",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/065/low.png"
+          },
+          {
+            "id": "xy6-75",
+            "name": "Rayquaza EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy6/75/low.png"
+          },
+          {
+            "id": "xy6-76",
+            "name": "M Rayquaza EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy6/76/low.png"
+          },
+          {
+            "id": "bw6-85",
+            "name": "Rayquaza-EX",
+            "image": "https://assets.tcgdex.net/en/bw/bw6/85/low.png"
+          },
+          {
+            "id": "xy6-87",
+            "name": "Rayquaza Spirit Link",
+            "image": "https://assets.tcgdex.net/en/xy/xy6/87/low.png"
+          }
         ],
-        "technologies": [
-          "js",
-          "html",
-          "sass",
-          "css",
-          "ts",
-          "py",
-          "rust",
-          "php",
-          "bash",
-          "ruby",
-          "react",
-          "supabase",
-          "netlify",
-          "nextjs",
-          "threejs",
-          "cs",
-          "pnpm"
-        ],
-        "displayMode": "logo"
+        "imageUrl": "https://assets.tcgdex.net/en/xy/xy6/61/low.webp",
+        "cardRawUrl": "https://assets.tcgdex.net/en/xy/xy6/61/low.png"
       },
       "locked": false,
       "visible": true,
       "zIndex": 1
     },
     {
-      "instanceId": "widget_84d53dc7-82aa-4e11-98e9-08e70cbe781f",
-      "widgetId": "codeweb-hero-orbit",
-      "name": "Codeweb-hero-orbit Widget",
+      "instanceId": "widget_8e3344c5-f1dd-4c1a-8838-90b41ec03f45",
+      "widgetId": "pokemon-card",
+      "name": "Pokemon-card Widget",
       "position": {
-        "x": 0,
-        "y": 0
+        "x": 272,
+        "y": 40
       },
       "size": {
-        "width": 800,
-        "height": 360
+        "width": 248,
+        "height": 328
       },
-      "config": {},
+      "config": {
+        "searchQuery": "Charizard",
+        "searchCards": [
+          {
+            "id": "pl4-1",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/pl/pl4/1/low.png"
+          },
+          {
+            "id": "gym2-2",
+            "name": "Blaine's Charizard",
+            "image": "https://assets.tcgdex.net/en/gym/gym2/2/low.png"
+          },
+          {
+            "id": "lc-3",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/lc/lc/3/low.png"
+          },
+          {
+            "id": "dp3-3",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/dp/dp3/3/low.png"
+          },
+          {
+            "id": "ex14-4",
+            "name": "Charizard δ",
+            "image": "https://assets.tcgdex.net/en/ex/ex14/4/low.png"
+          },
+          {
+            "id": "base4-4",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/base/base4/4/low.png"
+          },
+          {
+            "id": "base1-4",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/base/base1/4/low.png"
+          },
+          {
+            "id": "base5-4",
+            "name": "Dark Charizard",
+            "image": "https://assets.tcgdex.net/en/base/base5/4/low.png"
+          },
+          {
+            "id": "det1-5",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/sm/det1/5/low.png"
+          },
+          {
+            "id": "ex16-6",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/ex/ex16/6/low.png"
+          },
+          {
+            "id": "ecard1-6",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/ecard/ecard1/6/low.png"
+          },
+          {
+            "id": "sv03.5-006",
+            "name": "Charizard ex",
+            "image": "https://assets.tcgdex.net/en/sv/sv03.5/006/low.png"
+          },
+          {
+            "id": "sm115-9",
+            "name": "Charizard GX",
+            "image": "https://assets.tcgdex.net/en/sm/sm115/9/low.png"
+          },
+          {
+            "id": "A2b-010",
+            "name": "Charizard ex",
+            "image": "https://assets.tcgdex.net/en/tcgp/A2b/010/low.png"
+          },
+          {
+            "id": "swsh10.5-010",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/010/low.png"
+          },
+          {
+            "id": "xy12-11",
+            "name": "Charizard",
+            "image": "https://assets.tcgdex.net/en/xy/xy12/11/low.png"
+          },
+          {
+            "id": "g1-11",
+            "name": "Charizard EX",
+            "image": "https://assets.tcgdex.net/en/xy/g1/11/low.png"
+          },
+          {
+            "id": "xy2-11",
+            "name": "Charizard EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy2/11/low.png"
+          },
+          {
+            "id": "swsh10.5-011",
+            "name": "Radiant Charizard",
+            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/011/low.png"
+          },
+          {
+            "id": "xy12-12",
+            "name": "Charizard EX",
+            "image": "https://assets.tcgdex.net/en/xy/xy12/12/low.png"
+          }
+        ],
+        "imageUrl": "https://assets.tcgdex.net/en/lc/lc/3/low.webp",
+        "cardRawUrl": "https://assets.tcgdex.net/en/lc/lc/3/low.png"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 2
     },
     {
-      "instanceId": "widget_bdd69095-50a2-4437-9df3-5db7b92a8ae0",
-      "widgetId": "codeweb-minimal-badge",
-      "name": "Codeweb-minimal-badge Widget",
+      "instanceId": "widget_abce484f-05f6-4e61-86ca-bd9fd2b99fcb_0",
+      "widgetId": "pokemon-card",
+      "name": "Pokemon-card Widget (Cópia)",
       "position": {
-        "x": 0,
-        "y": 888
+        "x": 536,
+        "y": 40
       },
       "size": {
-        "width": 800,
-        "height": 44
+        "width": 248,
+        "height": 328
       },
-      "config": {},
+      "config": {
+        "searchQuery": "Pikachu",
+        "searchCards": [
+          {
+            "id": "fut2020-1",
+            "name": "Pikachu on the Ball",
+            "image": "https://assets.tcgdex.net/en/swsh/fut2020/1/low.png"
+          },
+          {
+            "id": "basep-1",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/base/basep/1/low.png"
+          },
+          {
+            "id": "basep-4",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/base/basep/4/low.png"
+          },
+          {
+            "id": "cel25-5",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/5/low.png"
+          },
+          {
+            "id": "cel25-6",
+            "name": "Flying Pikachu V",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/6/low.png"
+          },
+          {
+            "id": "ru1-7",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pl/ru1/7/low.png"
+          },
+          {
+            "id": "cel25-7",
+            "name": "Flying Pikachu VMAX",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/7/low.png"
+          },
+          {
+            "id": "cel25-8",
+            "name": "Surfing Pikachu V",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/8/low.png"
+          },
+          {
+            "id": "P-A-009",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/009/low.png"
+          },
+          {
+            "id": "cel25-9",
+            "name": "Surfing Pikachu VMAX",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/9/low.png"
+          },
+          {
+            "id": "pop6-9",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop6/9/low.png"
+          },
+          {
+            "id": "det1-10",
+            "name": "Detective Pikachu",
+            "image": "https://assets.tcgdex.net/en/sm/det1/10/low.png"
+          },
+          {
+            "id": "pop5-12",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop5/12/low.png"
+          },
+          {
+            "id": "np-12",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/np/12/low.png"
+          },
+          {
+            "id": "pop5-13",
+            "name": "Pikachu δ",
+            "image": "https://assets.tcgdex.net/en/pop/pop5/13/low.png"
+          },
+          {
+            "id": "pop4-13",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop4/13/low.png"
+          },
+          {
+            "id": "P-A-015",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/015/low.png"
+          },
+          {
+            "id": "pop9-15",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop9/15/low.png"
+          },
+          {
+            "id": "pop2-16",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop2/16/low.png"
+          },
+          {
+            "id": "sv04.5-018",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/sv/sv04.5/018/low.png"
+          }
+        ],
+        "imageUrl": "https://assets.tcgdex.net/en/swsh/cel25/5/low.webp",
+        "cardRawUrl": "https://assets.tcgdex.net/en/swsh/cel25/5/low.png"
+      },
       "locked": false,
       "visible": true,
-      "zIndex": 4
-    },
-    {
-      "instanceId": "widget_1940d831-b290-4505-9a38-6ae9de353640",
-      "widgetId": "codeweb-showcase-cards",
-      "name": "Codeweb-showcase-cards Widget",
-      "position": {
-        "x": 0,
-        "y": 652
-      },
-      "size": {
-        "width": 800,
-        "height": 220
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 5
+      "zIndex": 3
     }
   ],
   "globalStyles": {
@@ -124,7 +385,7 @@
   "templateId": "minimal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795615707031_upokf",
-    "updatedAt": "2026-11-25T14:08:30.700Z"
+    "revision": "rev_1795616282862_9nlmw",
+    "updatedAt": "2026-11-25T14:18:05.885Z"
   }
 }
