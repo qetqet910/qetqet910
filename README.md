@@ -1,4 +1,5 @@
-
-<div align="center">
-  <img width="300px" alt="image" src="https://github.com/user-attachments/assets/e997d8ff-68b7-4a00-9fda-0e385d5c6ada" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qetqet910/qetqet910/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qetqet910/qetqet910/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/qetqet910/qetqet910/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
